@@ -1,2 +1,0 @@
-# devgit
-devgit practice
